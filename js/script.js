@@ -9,7 +9,7 @@ search.addEventListener('click', output)
 const options = {
     method: 'GET',
     headers: {
-        'X-RapidAPI-Key': '49239ed133msh6c7dae2d7a7275dp1172a5jsn7f7be749fe83',
+//         'X-RapidAPI-Key': Add your key here,
         'X-RapidAPI-Host': 'community-open-weather-map.p.rapidapi.com'
     }
 };
